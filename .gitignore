@@ -15,8 +15,11 @@ mono_crash.*
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+<<<<<<< HEAD
 
 # Temporary files
 *.log
 *.tmp
 *.bak
+=======
+>>>>>>> 3c366c9efbd9ba7e29593c99965a530bc256be22
